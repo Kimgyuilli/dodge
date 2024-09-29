@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 70bd4de666b4cd04783c43006c329f6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletPrefeb: {instanceID: 0}
+  - BombPrefeb: {instanceID: 0}
+  - ShieldPrefeb: {instanceID: 0}
+  - joystickObject: {instanceID: 0}
+  - TimeUi: {instanceID: 0}
+  - scoreUi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
